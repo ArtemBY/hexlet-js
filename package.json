@@ -1,0 +1,25 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemBY/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet",
+    "node",
+    "js"
+  ],
+  "author": "artem moiseyenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemBY/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/ArtemBY/hexlet-js#readme"
+}
